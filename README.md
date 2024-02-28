@@ -19,7 +19,7 @@ This is a simple application built using Python and Tkinter that generates rando
 3. Run the script:
 
     ```
-    python password_generator.py
+    python password.py
     ```
 
 ## Usage
