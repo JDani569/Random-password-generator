@@ -13,7 +13,7 @@ This is a simple application built using Python and Tkinter that generates rando
 2. Navigate to the project directory:
 
     ```
-    cd random-password-generator
+    cd password generator
     ```
 
 3. Run the script:
